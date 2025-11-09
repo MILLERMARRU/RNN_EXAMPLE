@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Modelos y archivos grandes (opcional - puedes comentar si quieres subirlos)
+# modelo_saludos_rnn.keras
+# tokenizer_saludos.pickle
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# Archivos temporales
+*.tmp
+*.bak
